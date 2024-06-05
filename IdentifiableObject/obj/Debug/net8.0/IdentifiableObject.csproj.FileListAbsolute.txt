@@ -1,0 +1,14 @@
+D:\COS20007\Week_2\2.4P\IdentifiableObject\IdentifiableObject\bin\Debug\net8.0\IdentifiableObject.exe
+D:\COS20007\Week_2\2.4P\IdentifiableObject\IdentifiableObject\bin\Debug\net8.0\IdentifiableObject.deps.json
+D:\COS20007\Week_2\2.4P\IdentifiableObject\IdentifiableObject\bin\Debug\net8.0\IdentifiableObject.runtimeconfig.json
+D:\COS20007\Week_2\2.4P\IdentifiableObject\IdentifiableObject\bin\Debug\net8.0\IdentifiableObject.dll
+D:\COS20007\Week_2\2.4P\IdentifiableObject\IdentifiableObject\bin\Debug\net8.0\IdentifiableObject.pdb
+D:\COS20007\Week_2\2.4P\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\COS20007\Week_2\2.4P\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\IdentifiableObject.AssemblyInfoInputs.cache
+D:\COS20007\Week_2\2.4P\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\IdentifiableObject.AssemblyInfo.cs
+D:\COS20007\Week_2\2.4P\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+D:\COS20007\Week_2\2.4P\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\IdentifiableObject.dll
+D:\COS20007\Week_2\2.4P\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\refint\IdentifiableObject.dll
+D:\COS20007\Week_2\2.4P\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\IdentifiableObject.pdb
+D:\COS20007\Week_2\2.4P\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\IdentifiableObject.genruntimeconfig.cache
+D:\COS20007\Week_2\2.4P\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\ref\IdentifiableObject.dll
